@@ -1,0 +1,4 @@
+*.code-workspace
+poetry.lock
+selenium
+twitter_cookies.pkl
